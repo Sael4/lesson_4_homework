@@ -74,4 +74,5 @@ span {
 
 .link {
 	color: rgb(143, 77, 206);
+	text-transform: capitalize;
 }
